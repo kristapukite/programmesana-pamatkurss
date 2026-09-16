@@ -1,1 +1,1 @@
-print("Ceru, ka sanāks")
+print("Amanda ir profesionāla programmētāja")
