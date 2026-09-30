@@ -1,6 +1,6 @@
 # Programmēšana - pamatkurss
 Autors: **Krista Puķīte-Roga**
 
-## Kā palaist
+# Kā palaist
 
-# apaksvirsraksts
+## apaksvirsraksts
