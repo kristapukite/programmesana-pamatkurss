@@ -2,7 +2,7 @@
 Autors: **Krista Puķīte-Roga**
 
 # Kā palaist
--- programma tiek atverta un tad ar python  koda izpildisanas pogu tiek palaista
+- programma tiek atverta un tad ar python  koda izpildisanas pogu tiek palaista
 ## apaksvirsraksts
 
 ## Licence 
