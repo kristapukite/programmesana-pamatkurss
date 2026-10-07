@@ -4,3 +4,4 @@ Autors: **Krista Puķīte-Roga**
 ## Ergonomika
 - Monitors ir novietots acu līmenī.
 - Krēslam ir atbalstīta mugura.
+- Ik pēc laika atpūtināt acis.
