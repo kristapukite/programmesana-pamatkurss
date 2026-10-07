@@ -5,3 +5,4 @@ Autors: **Krista Puķīte-Roga**
 - Monitors ir novietots acu līmenī.
 - Krēslam ir atbalstīta mugura.
 - Ik pēc laika atpūtināt acis.
+- UTT
