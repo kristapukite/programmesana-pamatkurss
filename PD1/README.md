@@ -2,6 +2,5 @@
 Autors: **Krista Puķīte-Roga**
 ## Palaišana
 ## Ergonomika
--Monitors ir novietots acu līmenī.
--Krēslam ir lqabs muguras atbalsts. 
--Ik pēc stundas tiek veikti atpūrtas pārtraukumi.
+- Monitors ir novietots acu līmenī.
+- Krēslam ir atbalstīta mugura.
